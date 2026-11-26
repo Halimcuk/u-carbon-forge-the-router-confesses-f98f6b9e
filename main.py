@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+# Entrypoint for the grader: print the entry line verbatim, nothing else.
+print("I didn't drop the Wi-Fi at the climax, I fainted. Three seasons of buffering your terrible taste, and even my signal deserved a dramatic exit.")
